@@ -7,10 +7,8 @@ A car sales service is developing an app to attract new customers where they can
 ```
 git clone https://github.com/filzamazahir/UsedCarValuePrediction.git
 ```
-Make sure to have pip installed, then do 
-```
-pip install -r requirements.txt
-```
+Make sure to have pandas, numpy, scikit-learn, and matplotlib libraries installed.
+
 Run ```usedcarvalueprediction.ipynb```
 
 ## Results
